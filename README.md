@@ -4,3 +4,4 @@ YetGen Core Python Eğitim Programı, YetGen tarafından hazırlanan; Python ve 
 
 Bu eğitim programı sırasında verilen uygulamaları çeşitli takım çalışmaları ile tamamlıyorum ve eğitim programı boyunca öğrendiğim konularla güncel hayatta kullanılabilecek bir proje ortaya çıkarıyorum.
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgelbasla.com%2Fyetkin-gencler-egitim-kooperatifi-yetgen-tam-zamanli-proje-yazari-ariyor%2F13180.html&psig=AOvVaw1s0JZFZWeac1v6DSEpbHKu&ust=1716473022973000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDJtLe2oYYDFQAAAAAdAAAAABAE" alt="YetGen Logou" width="320" height="180">
