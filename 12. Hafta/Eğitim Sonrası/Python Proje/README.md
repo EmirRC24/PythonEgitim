@@ -94,4 +94,4 @@ Aşağıda, FoliumFuzion.py dosyasında tanımlı tüm fonksiyonlar ve bunların
   ## Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, lütfen bu depoyu fork'layın ve pull request gönderin. Hata raporları, özellik istekleri ve iyileştirmeler memnuniyetle karşılanır.
   ## İletişim
-Herhangi bir soru ya da sorun için lütfen batuhan.gnd@hotmail.com adresine ulaşın.
+Herhangi bir soru ya da sorun için lütfen emiririci@gmail.com adresine ulaşın.
