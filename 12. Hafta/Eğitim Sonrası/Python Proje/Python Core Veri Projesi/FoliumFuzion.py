@@ -99,7 +99,7 @@ class Indicators():
         if n_d.upper() == 'E':
             print("Harita Açılıyor")
             time.sleep(2)
-            html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\nufus_map.html'
+            html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\nufus_map.html'
 
     
             webbrowser.open(html_file_path)
@@ -121,7 +121,7 @@ class Indicators():
             print("Hatalı tercih!")
     
     def trade_balance_harita(self):
-        veri = pd.read_excel(r"C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\ana_veriler.xlsx")
+        veri = pd.read_excel(r"C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\ana_veriler.xlsx")
         enlemler = list(veri["Enlem"])
         boylamlar = list(veri["Boylam"])
         trade_balance = list(veri["esas"])
@@ -172,7 +172,7 @@ class Indicators():
         if t_b.upper() == 'E':
                 print("Harita Açılıyor")
                 time.sleep(2)
-                html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\trade_balance_map.html'
+                html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\trade_balance_map.html'
 
     
                 webbrowser.open(html_file_path)
@@ -274,7 +274,7 @@ class Indicators():
             print("Hatalı tercih!")
     
     def inflation_harita(self):
-        veri = pd.read_excel(r"C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\ana_veriler.xlsx")
+        veri = pd.read_excel(r"C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\ana_veriler.xlsx")
 
         enlemler = list(veri["Enlem"])
         boylamlar = list(veri["Boylam"])
@@ -325,7 +325,7 @@ class Indicators():
         if inf.upper() == 'E':
                 print("Harita Açılıyor")
                 time.sleep(2)
-                html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\inflation_map.html'
+                html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\inflation_map.html'
 
         
                 webbrowser.open(html_file_path)
@@ -423,7 +423,7 @@ class Indicators():
             print("Hatalı tercih!")
     
     def GDP_harita(self):
-        veri = pd.read_excel(r"C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\ana_veriler.xlsx")
+        veri = pd.read_excel(r"C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\ana_veriler.xlsx")
 
         enlemler = list(veri["Enlem"])
         boylamlar = list(veri["Boylam"])
@@ -471,7 +471,7 @@ class Indicators():
         if t_b.upper() == 'E':
             print("Harita Açılıyor")
             time.sleep(2)
-            html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\world_map_gdp.html'
+            html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\world_map_gdp.html'
 
         
             webbrowser.open(html_file_path)
@@ -570,7 +570,7 @@ class Indicators():
             print("Hatalı tercih!")
     
     def CO2_harita(self):
-        veri = pd.read_excel(r"C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\ana_veriler.xlsx")
+        veri = pd.read_excel(r"C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\ana_veriler.xlsx")
         enlemler = list(veri["Enlem"])
         boylamlar = list(veri["Boylam"])
         CO2_Emission = list(veri["esas_CO2"])
@@ -623,7 +623,7 @@ class Indicators():
         if co2.upper() == 'E':
                     print("Harita Açılıyor")
                     time.sleep(2)
-                    html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\emissions_map.html'
+                    html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\emissions_map.html'
 
         
                     webbrowser.open(html_file_path)
@@ -711,7 +711,7 @@ class Indicators():
 
 
     def harita(self):#islem sonunda harita acılsın mı? Ana verilerin hepsini haritaya işler
-        veri = pd.read_excel(r"C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\ana_veriler.xlsx")
+        veri = pd.read_excel(r"C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\ana_veriler.xlsx")
         enlemler = list(veri["Enlem"])
         boylamlar = list(veri["Boylam"])
         trade_balance = list(veri["esas"])
@@ -886,7 +886,7 @@ class Indicators():
         if n_d.upper() == 'E':
                     print("Harita Açılıyor")
                     time.sleep(2)
-                    html_file_path = r'C:\Users\batuh\OneDrive\Masaüstü\Python Core Veri Projesi\mapx.html'
+                    html_file_path = r'C:\Users\emiri\OneDrive\Belgeler\GitHub\PythonEgitim\12. Hafta\Eğitim Sonrası\Python Proje\Python Core Veri Projesi\mapx.html'
                     #Düzenlemeler için kendi oluşturdunuz path'i giriniz
                     webbrowser.open(html_file_path)
                     time.sleep(2)

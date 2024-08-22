@@ -315,45 +315,8 @@ dosya = frame.to_excel("C:/Users/batuh/OneDrive/Masaüstü/corona_harita/Python 
 # tüm verileri tek sayfada toplayalım , sayfa adı veriler olsun su an trade_balance"""
 
 
-Turkey
-Iceland
-Serbia
-Russia
-Czechia
-Slovakia
-Romania
-Poland
-San Marino
-Belarus
-Austria
-Hungary
-Croatia
-Ukraine
-Bulgaria
-Norway
-Andorra
-Montenegro
-Estonia
-Moldova
-France
-Malta
-Slovenia
-UK
-Albania
-Greece
-North Macedonia
-Spain
-Luxembourg
-Ireland
-Sweden,
-Germany,
-Bosnia & Herzegovina,
-Cyprus,
-Portugal,
-Switzerland,
-Finland,
-Netherlands,
-Latvia, Lithuania, Belgium, Denmark, Italy, Haiti, Jamaica, Nicaragua, Honduras, Barbados, Mexico, Guatemala, St. Vincent & the Grenadines, Belize, Dominican Republic, Antigua & Barbuda, USA, Canada, Grenada, Dominica, Aruba, Saint Lucia, Panama, Bahamas, Puerto Rico, El Salvador, Trinidad & Tobago, Costa Rica
+
+
 
 
 ülkeler = ["Turkey", "Iceland", "Serbia", "Russia", "Czechia", "Slovakia", "Romania", "Poland", "San Marino", "Belarus", "Austria", "Hungary", "Croatia", "Ukraine", "Bulgaria", "Norway", "Andorra", "Montenegro", "Estonia", "Moldova", "France", "Malta", "Slovenia", "UK", "Albania", "Greece", "North Macedonia", "Spain", "Luxembourg", "Ireland", "Sweden", "Germany", "Bosnia & Herzegovina", "Cyprus", "Portugal", "Switzerland", "Finland", "Netherlands", "Latvia", "Lithuania", "Belgium", "Denmark", "Italy", "Haiti", "Jamaica", "Nicaragua", "Honduras", "Barbados", "Mexico", "Guatemala", "St. Vincent & the Grenadines", "Belize", "Dominican Republic", "Antigua & Barbuda", "USA", "Canada", "Grenada", "Dominica", "Aruba", "Saint Lucia", "Panama", "Bahamas", "Puerto Rico", "El Salvador", "Trinidad & Tobago", "Costa Rica"]
